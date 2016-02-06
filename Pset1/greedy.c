@@ -4,7 +4,7 @@
     Author: Prateek Gaurav, prateekgaurav23@gmail.com
     
     This file is a solution of the greedy algorithm problem from
-    pset1 of CS50X by HarvardX on edX..
+    pset1 of CS50X by HarvardX on edX.
 */
 
 #include<stdio.h>
@@ -61,3 +61,4 @@ int main(void)
                   total = q+d+n+p;
                   printf("%d\n", total);
 }
+

@@ -3,7 +3,7 @@
    
     Author: Prateek Gaurav, prateekgaurav23@gmail.com
     
-    This file is a solution of the mario problem from pset1 of CS50X by HarvardX on edX..
+    This file is a solution of the mario problem from pset1 of CS50X by HarvardX on edX.
 */
 #include<stdio.h>
 #include<cs50.h>
